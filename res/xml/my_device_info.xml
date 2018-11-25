@@ -26,6 +26,13 @@
         android:selectable="false"
         android:title="@string/my_device_info_basic_info_category_title">
 
+        <!-- Colt About Flying logo -->
+        <Preference
+            android:key="colt_about"
+            android:order="0"
+            android:enabled="false"
+            android:layout="@layout/colt_about" />
+        
         <!-- Device name -->
         <com.android.settings.widget.ValidatedEditTextPreference
             android:key="device_name"
