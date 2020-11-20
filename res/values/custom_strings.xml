@@ -346,6 +346,11 @@
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
     
+    <!-- Support -->
+    <string name="ok">OK</string>
+    <string name="edit_hint">Value</string>
+    <string name="seek_value_edit_label">Set value</string>
+    
     <!-- About device screen, build maintainer -->
     <string name="build_maintainer">Build maintainer</string>
     <string name="build_maintainer_summary">Unknown</string>
