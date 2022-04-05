@@ -30,6 +30,10 @@
     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
     <string name="category_name_refresh_rate_controls">Refresh Rate</string>
 
+    <!-- Hidden apps -->
+    <string name="hidden_apps_title">Hidden apps</string>
+    <string name="hidden_apps_summary">Applications that should be hidden from launcher. Requires a launcher restart for changes to take effect</string>
+
     <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
