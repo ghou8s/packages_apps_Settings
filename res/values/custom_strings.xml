@@ -447,4 +447,8 @@
     <string name="show_lockscreen_media_art_title">Show media art</string>
     <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
     
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+    
 </resources>
