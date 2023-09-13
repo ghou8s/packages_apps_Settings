@@ -288,4 +288,50 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">5Gと4Gを自動的に切り替え、バッテリー消費を削減します。</string>
+    <!-- Cycle through ringer modes gesture -->
+    <string name="prevent_ringing_option_cycle">サイクルスルーモード</string>
+    <string name="prevent_ringing_option_cycle_summary">ON (サイクルスルーモード)</string>
+    <!-- About device screen, build maintainer -->
+    <string name="build_maintainer">ビルドメンテナ</string>
+    <string name="build_maintainer_summary">不明</string>
+    <!-- Status bar -->
+    <string name="status_bar_title">ステータスバー</string>
+    <string name="status_bar_quick_qs_pulldown_title">クイックプルダウン</string>
+    <string name="status_bar_quick_qs_pulldown_summary_left_edge">ステータスバーの左端をプルダウンしてクイック設定を開く</string>
+    <string name="status_bar_quick_qs_pulldown_summary_right_edge">ステータスバーの右端をプルダウンしてクイック設定を開く</string>
+    <string name="status_bar_quick_qs_pulldown_off">OFF</string>
+    <string name="status_bar_quick_qs_pulldown_left">左</string>
+    <string name="status_bar_quick_qs_pulldown_right">右</string>
+    <string name="status_bar_icons_title">ステータスバーのアイコン</string>
+    <string name="status_bar_system_icons_title">システムアイコン</string>
+    <string name="status_bar_system_icons_summary">ステータスバーに表示するアイコンを設定します</string>
+    <string name="status_bar_clock_title">時計</string>
+    <string name="status_bar_clock_show_seconds_title">秒を表示</string>
+    <string name="status_bar_clock_show_seconds_summary">時、分、秒を表示する</string>
+    <string name="status_bar_clock_position_title">時計のスタイル</string>
+    <string name="status_bar_clock_position_right">右</string>
+    <string name="status_bar_clock_position_left">左</string>
+    <string name="status_bar_clock_position_center">中央</string>
+    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_info">24時間表記が有効になっています</string>
+    <string name="status_bar_am_pm_normal">標準</string>
+    <string name="status_bar_am_pm_small">小さい</string>
+    <string name="status_bar_am_pm_hidden">非表示</string>
+    <string name="status_bar_clock_position_disabled_summary">ステータスバーに通信速度が表示中のため、位置を変更できません。</string>
+    <string name="status_bar_battery_title">バッテリーアイコン</string>
+    <string name="status_bar_battery_style_title">電池の状態のスタイル</string>
+    <string name="status_bar_battery_style_icon_portrait">縦向きのアイコン</string>
+    <string name="status_bar_battery_style_circle">サークル</string>
+    <string name="status_bar_battery_style_text">テキスト</string>
+    <string name="status_bar_battery_percentage_title">電池のパーセント表示</string>
+    <string name="status_bar_battery_percentage_default">非表示</string>
+    <string name="status_bar_battery_percentage_text_inside">アイコンの中</string>
+    <string name="status_bar_battery_percentage_text_next">アイコンの隣</string>
+    <string name="status_bar_brightness_category">画面の明るさ</string>
+    <string name="status_bar_brightness_slider_title">明るさスライダー</string>
+    <string name="status_bar_brightness_slider_summary">クイック設定で明るさを調節する</string>
+    <string name="status_bar_brightness_slider_auto_title">明るさの自動調節</string>
+    <string name="status_bar_brightness_slider_auto_summary">スライダーの近くに明るさの自動調節のトグルを表示する</string>
+    <string name="status_bar_toggle_brightness">明るさコントロール</string>
+    <string name="status_bar_toggle_brightness_summary">ステータスバー上でスライドして明るさを調整します</string>
 </resources>
